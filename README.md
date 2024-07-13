@@ -1,13 +1,13 @@
-# 👋 Hi, I’m @arjunchavhan (Arjun Chavhan)
+# 👋 Hi, I’m @arjunchavhan024 (Arjun Chavhan)
 
 <p align="center">
   <b style="color: blue;  ">Visitor count</b>
   <br>
-  <a style="" href="https://github.com/arjunchavhan">
-  <img src="https://profile-counter.glitch.me/arjunchavhan03/count.svg" />
+  <a style="" href="https://github.com/arjunchavhan024">
+  <img src="https://profile-counter.glitch.me/arjunchavhan024/count.svg" />
   </a>
 </p>
-<a style="" href="https://github.com/arjunchavhan03">
+<a style="" href="https://github.com/arjunchavhan024">
 <img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="50%" height="70%" style="margin:0 50px;">
 </a>
 
@@ -23,20 +23,20 @@
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@xyz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/) -->
 
-[<img src="https://img.shields.io/badge/-Arjun-blue?style=for-the-badge&logo=Linkedin&logoColor=white" height="30" title="Follow me" />](https://www.linkedin.com/in/arjunchavhan03/)
-[<img src="https://img.shields.io/badge/-contact.ac4718770@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="30" title="Follow me" />](mailto:contact.ac4718770@gmail.com)
-[<img src="https://img.shields.io/badge/-@ar_junchavhan__-e4405f?style=for-the-badge&labelColor=f94877&logo=instagram&logoColor=white" height="30" title="Follow me" />](https://www.instagram.com/ar_junchavhan/)
-[<img src="https://img.shields.io/github/followers/arjunchavhan03?label=arjunchavhan03&style=social" height="32" title="Follow me" />](https://github.com/arjunchavhan03)
+[<img src="https://img.shields.io/badge/-Arjun-blue?style=for-the-badge&logo=Linkedin&logoColor=white" height="30" title="Follow me" />](https://www.linkedin.com/in/arjunchavhan024/)
+[<img src="https://img.shields.io/badge/-contact.arjunchavhan024@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="30" title="Follow me" />](mailto:contact.arjunchavhangmail.com)
+[<img src="https://img.shields.io/badge/-@arjunchavhan024__-e4405f?style=for-the-badge&labelColor=f94877&logo=instagram&logoColor=white" height="30" title="Follow me" />](https://www.instagram.com/arjunchavhan024/)
+[<img src="https://img.shields.io/github/followers/arjunchavhan024?label=arjunchavhan03&style=social" height="32" title="Follow me" />](https://github.com/arjunchavhan024)
 </br></br>
 
 ## 💻 Some stats 💻
 
 <div style="align-items: center; width: 100%; display: flex; align-items: space-around; justify-content: space-around;">
-<a style="" href="https://github.com/arjunchavhan03">
-  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=arjunchavhan03&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
+<a style="" href="https://github.com/arjunchavhan024">
+  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=arjunchavhan024&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
 </a>
-<a style="" href="https://github.com/arjunchavhan03">
-  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunchavhan03&theme=tokyonight&layout=donut-vertical"/>
+<a style="" href="https://github.com/arjunchavhan024">
+  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunchavhan024&theme=tokyonight&layout=donut-vertical"/>
 </a>
 </div>
 
@@ -64,7 +64,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![](https://github-profile-trophy.vercel.app/?username=arjunchavhan03&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/arjunchavhan03)<br><br>
+[![](https://github-profile-trophy.vercel.app/?username=arjunchavhan024&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/arjunchavhan024)<br><br>
 
 ## 🧑‍🏫 All Projects
 
