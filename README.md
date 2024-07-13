@@ -66,38 +66,6 @@
 
 [![](https://github-profile-trophy.vercel.app/?username=arjunchavhan024&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/arjunchavhan024)<br><br>
 
-## 🧑‍🏫 All Projects
-
-| S.No | Major Project  |                                                                  
-|  01  | Airbnb Project |
-|  03  | Food Plaza     |
-|  04  | Netflix Gpt    | 
-|  05  | Cors Handler   |
-
-|  06  | Code With      |
-
-
-| S.No | Mini Major Project |
-| :--: | :----------------- | 
-|  01  | Life Track         |
-|  02  | Weather Widget     |
-|  03  | SimonSay Game Js   | 
-|  04  | Amazon Clone       | 
-|  05  | Spotify Clone      | 
-|  06  | WhatApp Chat       |
-|  07  | ToDo Game Redux    |
-|  08  | ToDo Game React    |
-|  09  | ToDo Game Js       |  
-|  10  | Lottery Game       |
-
-| S.No | Small Project    |         
-| :--: | :--------------- | 
-|  01  | MT Project       |
-|  02  | Css Mini Project | 
-|  03  | Insta Story Js   |  
-|  04  | Card Project Js  |
----
-
 <a href="https://github.com/arjunchavhan024">
   <img src="https://imgur.com/rilHVxA.png"/>
 </a>
