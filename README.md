@@ -26,7 +26,7 @@
 [<img src="https://img.shields.io/badge/-Arjun-blue?style=for-the-badge&logo=Linkedin&logoColor=white" height="30" title="Follow me" />](https://www.linkedin.com/in/arjunchavhan024/)
 [<img src="https://img.shields.io/badge/-contact.arjunchavhan024@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="30" title="Follow me" />](mailto:contact.arjunchavhangmail.com)
 [<img src="https://img.shields.io/badge/-@arjunchavhan024__-e4405f?style=for-the-badge&labelColor=f94877&logo=instagram&logoColor=white" height="30" title="Follow me" />](https://www.instagram.com/arjunchavhan024/)
-[<img src="https://img.shields.io/github/followers/arjunchavhan024?label=arjunchavhan03&style=social" height="32" title="Follow me" />](https://github.com/arjunchavhan024)
+[<img src="https://img.shields.io/github/followers/arjunchavhan024?label=arjunchavhan024&style=social" height="32" title="Follow me" />](https://github.com/arjunchavhan024)
 </br></br>
 
 ## 💻 Some stats 💻
@@ -98,7 +98,7 @@
 |  04  | Card Project Js  |
 ---
 
-<a href="https://github.com/arjunchavhan03">
+<a href="https://github.com/arjunchavhan024">
   <img src="https://imgur.com/rilHVxA.png"/>
 </a>
 
