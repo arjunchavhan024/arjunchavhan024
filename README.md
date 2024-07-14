@@ -66,6 +66,19 @@
 
 [![](https://github-profile-trophy.vercel.app/?username=arjunchavhan024&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/arjunchavhan024)<br><br>
 
+## 🧑‍🏫 All Projects
+
+
+| S.No | Small Project    |                        Live Link                         |                          GitHub Link                           |
+| :--: | :--------------- | :------------------------------------------------------: | :------------------------------------------------------------: |
+|  01  | Spotify Clone    |   [Link](https://spotify-arjunchavhan024.netlify.app/)   |    [Repository](https://github.com/arjunchavhan024/Spotify)    |
+|  02  | Telegram Clone   | [Link](https://telegram-arjunchavhan024.netlify.app/)    | [Repository](https://github.com/arjunchavhan024/Telegram-Front-Page-) |
+|  03  | Christmas tree   | [Link](https://christmas-tree-arjunchavhan024.netlify.app/)|  [Repository](https://github.com/arjunchavhan024/Christmas-Tree)  |
+|  04  | Amazon Clone     | [Link](https://github.com/arjunchavhan024/Amazon-web-clone)  | [Repository](https://github.com/arjunchavhan024/Amazon-web-clone)  |
+|  04  | Smiley Face     | [Link](https://github.com/arjunchavhan024/Smiley-Face)  | [Repository](https://github.com/arjunchavhan024/Smiley-Face) |
+
+---
+
 <a href="https://github.com/arjunchavhan024">
   <img src="https://imgur.com/rilHVxA.png"/>
 </a>
