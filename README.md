@@ -69,13 +69,27 @@
 ## 🧑‍🏫 All Projects
 
 
+| S.No | Mini Major Project |                       Live Link                        |                                 GitHub Link                                  |
+| :--: | :----------------- | :----------------------------------------------------: | :--------------------------------------------------------------------------: |
+|  01  | Image Search Engine|[Link](https://image-search-engine-arjunchavhan024.netlify.app/)|[Repository](https://github.com/arjunchavhan024/Image-Search-Engine)  |
+|  02  | Love Calculator    | [Link](https://love-calculator-arjunchavhan024.netlify.app/) |      [Repository](https://github.com/arjunchavhan024/Love-Calculator)  |
+|  03  | Clock              | [Link](https://clock-arjunchavhan024.netlify.app/)     |         [Repository](https://github.com/arjunchavhan024/Clock)               |
+|  04  | QR Code Generator  |  [Link](https://qr-code-generator-arjunchavhan024.netlify.app/)|    [Repository](https://github.com/arjunchavhan024/QR-Code-Generator)|
+|  05  | Text to Speach Converter| [Link](https://text-to-speech-conv-arjunchavhan024.netlify.app/)| [Repository](https://github.com/arjunchavhan024/Text-To-Speech-Converter)|
+|  06  | Simple Calculator  | [Link](https://simple-calculator-arjunchavhan024.netlify.app/) |   [Repository](https://github.com/arjunchavhan024/Simple-Calculator) |
+|  07  | Mini Calendar      |   [Link](https://mini-calendar-arjunchavhan024.netlify.app/)    | [Repository](https://github.com/arjunchavhan024/Mini-Calendar)      |
+|  08  | Digital Clock      |   [Link](https://digital-clock-arjunchavhan024.netlify.app/)    |        [Repository](https://github.com/arjunchavhan024/Digital-Clock)         |
+|  09  | Image Search App   |   [Link](https://image-search-app-arjunchavhan024.netlify.app/)    |          [Repository](https://github.com/arjunchavhan024/Image-Search-App)          |
+|  10  | Voice to Text Converter       |  [Link](https://voice-to-text-conv-arjunchavhan024.netlify.app/)  |          [Repository](https://github.com/arjunchavhan024/Voice-to-Text-Convertor)          |
+
+
 | S.No | Small Project    |                        Live Link                         |                          GitHub Link                           |
 | :--: | :--------------- | :------------------------------------------------------: | :------------------------------------------------------------: |
 |  01  | Spotify Clone    |   [Link](https://spotify-arjunchavhan024.netlify.app/)   |    [Repository](https://github.com/arjunchavhan024/Spotify)    |
 |  02  | Telegram Clone   | [Link](https://telegram-arjunchavhan024.netlify.app/)    | [Repository](https://github.com/arjunchavhan024/Telegram-Front-Page-) |
 |  03  | Christmas tree   | [Link](https://christmas-tree-arjunchavhan024.netlify.app/)|  [Repository](https://github.com/arjunchavhan024/Christmas-Tree)  |
 |  04  | Amazon Clone     | [Link](https://github.com/arjunchavhan024/Amazon-web-clone)  | [Repository](https://github.com/arjunchavhan024/Amazon-web-clone)  |
-|  04  | Smiley Face     | [Link](https://github.com/arjunchavhan024/Smiley-Face)  | [Repository](https://github.com/arjunchavhan024/Smiley-Face) |
+|  05  | Smiley Face     | [Link](https://github.com/arjunchavhan024/Smiley-Face)  | [Repository](https://github.com/arjunchavhan024/Smiley-Face) |
 
 ---
 
