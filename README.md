@@ -85,11 +85,12 @@
 
 | S.No | Small Project    |                        Live Link                         |                          GitHub Link                           |
 | :--: | :--------------- | :------------------------------------------------------: | :------------------------------------------------------------: |
-|  01  | Spotify Clone    |   [Link](https://spotify-arjunchavhan024.netlify.app/)   |    [Repository](https://github.com/arjunchavhan024/Spotify)    |
-|  02  | Telegram Clone   | [Link](https://telegram-arjunchavhan024.netlify.app/)    | [Repository](https://github.com/arjunchavhan024/Telegram-Front-Page-) |
-|  03  | Christmas tree   | [Link](https://christmas-tree-arjunchavhan024.netlify.app/)|  [Repository](https://github.com/arjunchavhan024/Christmas-Tree)  |
-|  04  | Amazon Clone     | [Link](https://github.com/arjunchavhan024/Amazon-web-clone)  | [Repository](https://github.com/arjunchavhan024/Amazon-web-clone)  |
-|  05  | Smiley Face     | [Link](https://github.com/arjunchavhan024/Smiley-Face)  | [Repository](https://github.com/arjunchavhan024/Smiley-Face) |
+|  01  | University Website| [Link](https://university-web-arjunchavhan024.netlify.app/)   |    [Repository](https://github.com/arjunchavhan024/University-Web-Page)    |
+|  02  | Spotify Clone    |   [Link](https://spotify-arjunchavhan024.netlify.app/)   |    [Repository](https://github.com/arjunchavhan024/Spotify)    |
+|  03  | Telegram Clone   | [Link](https://telegram-arjunchavhan024.netlify.app/)    | [Repository](https://github.com/arjunchavhan024/Telegram-Front-Page-) |
+|  04  | Christmas tree   | [Link](https://christmas-tree-arjunchavhan024.netlify.app/)|  [Repository](https://github.com/arjunchavhan024/Christmas-Tree)  |
+|  05  | Amazon Clone     | [Link](https://github.com/arjunchavhan024/Amazon-web-clone)  | [Repository](https://github.com/arjunchavhan024/Amazon-web-clone)  |
+|  06  | Smiley Face     | [Link](https://github.com/arjunchavhan024/Smiley-Face)  | [Repository](https://github.com/arjunchavhan024/Smiley-Face) |
 
 ---
 
