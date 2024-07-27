@@ -71,7 +71,7 @@
 
 | S.No | Mini Major Project |                       Live Link                        |                                 GitHub Link                                  |
 | :--: | :----------------- | :----------------------------------------------------: | :--------------------------------------------------------------------------: |
-|  01  | AvirajInfo tech    ||[Link](https://avirajinfo-tech-arjunchavhan024.netlify.app/)|[Repository](https://github.com/arjunchavhan024/AvirajInfo-Tech)  |
+|  01  | AvirajInfo tech    |[Link](https://avirajinfo-tech-arjunchavhan024.netlify.app/)|   [Repository](https://github.com/arjunchavhan024/AvirajInfo-Tech)         |
 |  02  | Image Search Engine|[Link](https://image-search-engine-arjunchavhan024.netlify.app/)|[Repository](https://github.com/arjunchavhan024/Image-Search-Engine)  |
 |  03  | Love Calculator    | [Link](https://love-calculator-arjunchavhan024.netlify.app/) |      [Repository](https://github.com/arjunchavhan024/Love-Calculator)  |
 |  04  | Clock              | [Link](https://clock-arjunchavhan024.netlify.app/)     |         [Repository](https://github.com/arjunchavhan024/Clock)               |
