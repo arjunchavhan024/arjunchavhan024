@@ -96,7 +96,8 @@
 |  03  | Telegram Clone   | [Link](https://telegram-arjunchavhan024.netlify.app/)    | [Repository](https://github.com/arjunchavhan024/Telegram-Front-Page-) |
 |  04  | Christmas tree   | [Link](https://christmas-tree-arjunchavhan024.netlify.app/)|  [Repository](https://github.com/arjunchavhan024/Christmas-Tree)  |
 |  05  | Amazon Clone     | [Link](https://github.com/arjunchavhan024/Amazon-web-clone)  | [Repository](https://github.com/arjunchavhan024/Amazon-web-clone)  |
-|  06  | Smiley Face     | [Link](https://github.com/arjunchavhan024/Smiley-Face)  | [Repository](https://github.com/arjunchavhan024/Smiley-Face) |
+|  06  | 3D Animation     | [Link](https://github.com/arjunchavhan024/animation)  | [Repository](https://github.com/arjunchavhan024/animation) |
+|  07  | Smiley Face      | [Link](https://github.com/arjunchavhan024/Smiley-Face)  | [Repository](https://github.com/arjunchavhan024/Smiley-Face) |
 
 ---
 
