@@ -70,7 +70,7 @@
 
 | S.No | Major Project      |                       Live Link                        |                                 GitHub Link                                  |
 | :--: | :----------------- | :----------------------------------------------------: | :--------------------------------------------------------------------------: |
-|  01  | Airbnb clone       |[Link](http://localhost:8080/listings)|   [Repository](https://github.com/arjunchavhan024/Airbnb-Project)           |
+|  01  | Airbnb clone       |[Link](https://github.com/arjunchavhan024/Airbnb-Project)|   [Repository](https://github.com/arjunchavhan024/Airbnb-Project)           |
 
 
 
