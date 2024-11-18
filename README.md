@@ -75,7 +75,7 @@
 
 | S.No | React.Js Project      |                       Live Link                        |                                 GitHub Link                                  |
 | :--: | :----------------- | :----------------------------------------------------: | :--------------------------------------------------------------------------: |
-|  01  | Digital Clock       |[Link](https://github.com/arjunchavhan024/React-Clock)|   [Repository](https://github.com/arjunchavhan024/React-Clock)           |
+|  01  | Digital Clock       |[Link](https://react-clock-arjunchavhan024.netlify.app/)|   [Repository](https://github.com/arjunchavhan024/React-Clock)           |
 
 
 
