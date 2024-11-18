@@ -73,17 +73,23 @@
 |  01  | Airbnb clone       |[Link](https://github.com/arjunchavhan024/Airbnb-Project)|   [Repository](https://github.com/arjunchavhan024/Airbnb-Project)           |
 
 
+| S.No | React.Js Project      |                       Live Link                        |                                 GitHub Link                                  |
+| :--: | :----------------- | :----------------------------------------------------: | :--------------------------------------------------------------------------: |
+|  01  | Digital Clock       |[Link](https://github.com/arjunchavhan024/React-Clock)|   [Repository](https://github.com/arjunchavhan024/React-Clock)           |
+
+
 
 | S.No | Mini Major Project |                       Live Link                        |                                 GitHub Link                                  |
 | :--: | :----------------- | :----------------------------------------------------: | :--------------------------------------------------------------------------: |
 |  01  | AvirajInfo tech    |[Link](https://avirajinfo-tech-arjunchavhan024.netlify.app/)|   [Repository](https://github.com/arjunchavhan024/AvirajInfo-Tech)       |
-|  02  | University Website| [Link](https://university-web-arjunchavhan024.netlify.app/)   |    [Repository](https://github.com/arjunchavhan024/UniversityWebsite)  |
-|  03  | Image Search Engine|[Link](https://image-search-engine-arjunchavhan024.netlify.app/)|[Repository](https://github.com/arjunchavhan024/Image-Search-Engine)  |
-|  04  | Love Calculator    | [Link](https://love-calculator-arjunchavhan024.netlify.app/) |      [Repository](https://github.com/arjunchavhan024/Love-Calculator)  |
-|  05  | Clock              | [Link](https://clock-arjunchavhan024.netlify.app/)     |         [Repository](https://github.com/arjunchavhan024/Clock)               |
-|  06  | QR Code Generator  |  [Link](https://qr-code-generator-arjunchavhan024.netlify.app/)|    [Repository](https://github.com/arjunchavhan024/QR-Code-Generator)|
-|  07  | Text to Speach Converter| [Link](https://text-to-speech-conv-arjunchavhan024.netlify.app/)| [Repository](https://github.com/arjunchavhan024/Text-To-Speech-Converter)|
-|  08  | Simple Calculator  | [Link](https://simple-calculator-arjunchavhan024.netlify.app/) |   [Repository](https://github.com/arjunchavhan024/Simple-Calculator) |
+|  02  | University Website | [Link](https://university-web-arjunchavhan024.netlify.app/)   |    [Repository](https://github.com/arjunchavhan024/UniversityWebsite)  |
+|  03  | Collabline Solution| [Link](https://marvelous-haupia-fdb809.netlify.app/)   |    [Repository](https://github.com/arjunchavhan024/CollabLine-Solution-2)  |
+|  04  | Image Search Engine|[Link](https://image-search-engine-arjunchavhan024.netlify.app/)|[Repository](https://github.com/arjunchavhan024/Image-Search-Engine)  |
+|  05  | Love Calculator    | [Link](https://love-calculator-arjunchavhan024.netlify.app/) |      [Repository](https://github.com/arjunchavhan024/Love-Calculator)  |
+|  06  | Clock              | [Link](https://clock-arjunchavhan024.netlify.app/)     |         [Repository](https://github.com/arjunchavhan024/Clock)               |
+|  07  | QR Code Generator  |  [Link](https://qr-code-generator-arjunchavhan024.netlify.app/)|    [Repository](https://github.com/arjunchavhan024/QR-Code-Generator)|
+|  08  | Text to Speach Converter| [Link](https://text-to-speech-conv-arjunchavhan024.netlify.app/)| [Repository](https://github.com/arjunchavhan024/Text-To-Speech-Converter)|
+|  09  | Simple Calculator  | [Link](https://simple-calculator-arjunchavhan024.netlify.app/) |   [Repository](https://github.com/arjunchavhan024/Simple-Calculator) |
 |  10  | Mini Calendar      |   [Link](https://mini-calendar-arjunchavhan024.netlify.app/)    | [Repository](https://github.com/arjunchavhan024/Mini-Calendar)      |
 |  11  | Digital Clock      |   [Link](https://digital-clock-arjunchavhan024.netlify.app/)    |        [Repository](https://github.com/arjunchavhan024/Digital-Clock)|
 |  12  | Image Search App   |   [Link](https://image-search-app-arjunchavhan024.netlify.app/)    |          [Repository](https://github.com/arjunchavhan024/Image-Search-App)          |
