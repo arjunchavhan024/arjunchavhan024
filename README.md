@@ -77,6 +77,7 @@
 | :--: | :----------------- | :----------------------------------------------------: | :--------------------------------------------------------------------------: |
 |  01  | Weather App        |[Link](https://weatherr-app-arjunchavhan024.netlify.app/)|   [Repository](https://github.com/arjunchavhan024/React-Weather-App)           |
 |  02  | Digital Clock       |[Link](https://react-clock-arjunchavhan024.netlify.app/)|   [Repository](https://github.com/arjunchavhan024/React-Clock)           |
+|  03  | Data Fetch       |[Link](https://reactapp-arjunchavhan024.netlify.app/)|   [Repository](https://github.com/arjunchavhan024/TheGoodGame-ReactApp)           |
 
 
 
