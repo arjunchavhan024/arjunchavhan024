@@ -72,6 +72,15 @@
 | :--: | :----------------- | :----------------------------------------------------: | :--------------------------------------------------------------------------: |
 |  01  | Airbnb clone       |[Link](https://github.com/arjunchavhan024/Airbnb-Project)|   [Repository](https://github.com/arjunchavhan024/Airbnb-Project)           |
 
+| S.No | Assignment Project      |                       Live Link                        |                                 GitHub Link                                  |
+| :--: | :----------------- | :----------------------------------------------------: | :--------------------------------------------------------------------------: |
+|  01  | SoftSell Investment App |[Link](https://softsell-arjunchavhan024.netlify.app/)|   [Repository](https://github.com/arjunchavhan024/SoftSell)           |
+|  02  | Blog App                |[Link](https://github.com/arjunchavhan024/BlogApp)|   [Repository](https://github.com/arjunchavhan024/BlogApp)           |
+|  03  | Event Explorer          |[Link](https://eventexplorer-arjunchavhan024.netlify.app/)|   [Repository](https://github.com/arjunchavhan024/BookMyTicket)           |
+|  04  | Pokemon App             |[Link](https://pokemon-arjunchavhan024.netlify.app/)|   [Repository](https://github.com/arjunchavhan024/Pok-mon--Cards)           |
+
+
+
 
 | S.No | React.Js Project      |                       Live Link                        |                                 GitHub Link                                  |
 | :--: | :----------------- | :----------------------------------------------------: | :--------------------------------------------------------------------------: |
