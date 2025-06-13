@@ -79,6 +79,8 @@
 |  03  | Blog App                |[Link](https://github.com/arjunchavhan024/BlogApp)|   [Repository](https://github.com/arjunchavhan024/BlogApp)           |
 |  04  | Event Explorer          |[Link](https://eventexplorer-arjunchavhan024.netlify.app/)|   [Repository](https://github.com/arjunchavhan024/BookMyTicket)           |
 |  05  | Pokemon App             |[Link](https://pokemon-arjunchavhan024.netlify.app/)|   [Repository](https://github.com/arjunchavhan024/Pok-mon--Cards)           |
+|  06  | MCQ Game App            |[Link](https://mcq-game-app-arjunchavhan024.netlify.app/)|   [Repository](https://github.com/arjunchavhan024/MCQ-Game-App)           |
+
 
 
 
